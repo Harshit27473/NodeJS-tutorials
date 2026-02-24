@@ -1,0 +1,24 @@
+{
+  "name": "2026",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Harshit27473/NodeJS-tutorials#readme",
+  "bugs": {
+    "url": "https://github.com/Harshit27473/NodeJS-tutorials/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harshit27473/NodeJS-tutorials.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "1-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "dependencies": {
+    "lodash": "^4.17.23"
+  }
+}
